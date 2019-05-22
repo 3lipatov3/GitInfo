@@ -1,0 +1,2 @@
+# GitInfo
+Zimad testApp
